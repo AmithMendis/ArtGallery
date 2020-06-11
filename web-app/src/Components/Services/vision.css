@@ -1,0 +1,14 @@
+.vision {
+  position: relative;
+  overflow: hidden;
+  height: 25vh;
+  width: 100%;
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+#vision_statement {
+  color: rgb(43, 43, 43);
+  font-size: 30px;
+  text-align: center;
+}
